@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/115447614/236106541-46969d15-c12c-4f95-858b-358b2d1d3ca3.png) -->
-<img align="center" alt="MasterHead" height="500" src="https://user-images.githubusercontent.com/115447614/236106541-46969d15-c12c-4f95-858b-358b2d1d3ca3.png">
+<img align="center" alt="MasterHead" src="https://user-images.githubusercontent.com/115447614/236107272-bb853760-c745-453e-92e2-d7a811628274.png"> <br/>
 <h1 align="left">Hello, I'm Julian Nguyen</h1>
 <img align="right" alt="coding" width="350" height="350" src="https://user-images.githubusercontent.com/115447614/236104502-d8c233cd-4dba-45ae-9a66-1f0754f55572.gif">
 
@@ -27,6 +27,6 @@ I'm interested in mobile development and data science.</body1>
  
 # GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=purified-water&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api?username=purified-water&show_icons=true&theme=rose_pine)   ![](https://github-readme-streak-stats.herokuapp.com/?user=purified-water&theme=rose_pine)<br/>
+![](https://github-readme-stats.vercel.app/api?username=purified-water&show_icons=true&theme=rose_pine) ![](https://github-readme-streak-stats.herokuapp.com/?user=purified-water&theme=rose_pine)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purified-water&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
