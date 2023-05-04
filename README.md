@@ -26,7 +26,5 @@ I'm interested in mobile development and data science.</body1>
  
  
 # GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=purified-water&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api?username=purified-water&show_icons=true&theme=rose_pine) ![](https://github-readme-streak-stats.herokuapp.com/?user=purified-water&theme=rose_pine)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purified-water&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
