@@ -15,7 +15,7 @@ My main focus right now is everything Android development.
 <!-- ![BHFO](https://user-images.githubusercontent.com/115447614/236104502-d8c233cd-4dba-45ae-9a66-1f0754f55572.gif)
  -->
 
-<h2 align="left">Languages</h2>
+<!--- <h2 align="left">Languages</h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -28,5 +28,4 @@ My main focus right now is everything Android development.
  
 ![](https://github-readme-stats.vercel.app/api?username=purified-water&show_icons=true&theme=rose_pine) ![](https://github-readme-streak-stats.herokuapp.com/?user=purified-water&theme=rose_pine)<br/>
  -->
- 
 
