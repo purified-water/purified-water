@@ -3,8 +3,8 @@
 <h1 align="left">Hello, I'm Julian Nguyen</h1>
 <img align="right" alt="sideGif" width="400" height="400" src="https://gifdb.com/images/high/black-minimalist-cartoon-cat-bcr0fu2629djkhiq.gif">
 
-<body1 align="left">I'm currently pursuing a bachelor's degree in CS at VNU-HCMUS. <br/>
-I'm interested in software engineering and data science.
+<body1 align="left">I'm currently pursuing a bachelor's degree in Software Engineering at VNU-HCMUS. <br/>
+I'm interested in software engineering, data science and artificial intelligence.
 My main focus right now is everything Android development.
 </body1>  
 
