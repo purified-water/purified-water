@@ -5,7 +5,7 @@
 
 <body1 align="left">I'm currently pursuing a bachelor's degree in Software Engineering at VNU-HCMUS. <br/>
 I'm interested in software engineering, data science and artificial intelligence.
-My main focus right now is everything Mobile development.
+My main focus right now is cross-platform app development using React Native.
 </body1>  
 
 <!--<h2 align="left">Socials</h2>
