@@ -5,7 +5,7 @@
 
 <body1 align="left">I'm currently pursuing a bachelor's degree in Software Engineering at VNU-HCMUS. <br/>
 I'm interested in web development, mobile development, data science and artificial intelligence.
-My main focus right now is cross-platform app development using Expo and web dev with Next.js.
+My main focus right now are cross-platform app development using Expo and web dev with Next.js.
 </body1>  
 
 <!--<h2 align="left">Socials</h2>
