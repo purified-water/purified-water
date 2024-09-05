@@ -4,8 +4,8 @@
 <img align="right" alt="sideGif" width="400" height="400" src="https://gifdb.com/images/high/black-minimalist-cartoon-cat-bcr0fu2629djkhiq.gif">
 
 <body1 align="left">I'm currently pursuing a bachelor's degree in Software Engineering at VNU-HCMUS. <br/>
-I'm interested in software engineering, data science and artificial intelligence.
-My main focus right now is cross-platform app development using React Native.
+I'm interested in web development, mobile development, data science and artificial intelligence.
+My main focus right now is cross-platform app development using Expo and web dev with Next.js.
 </body1>  
 
 <!--<h2 align="left">Socials</h2>
