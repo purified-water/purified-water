@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/115447614/236106541-46969d15-c12c-4f95-858b-358b2d1d3ca3.png) -->
 <img align="center" alt="MasterHead" src="https://user-images.githubusercontent.com/115447614/236107272-bb853760-c745-453e-92e2-d7a811628274.png"> <br/>
-<h1 align="left">Hello, I'm Julian Nguyen</h1>
+<h1 align="left">Hello, I'm Julian Nguyen (Sugi) </h1>
 <img align="right" alt="sideGif" width="400" height="400" src="https://gifdb.com/images/high/black-minimalist-cartoon-cat-bcr0fu2629djkhiq.gif">
 
 <body1 align="left">I'm currently pursuing a bachelor's degree in Software Engineering at VNU-HCMUS. <br/>
